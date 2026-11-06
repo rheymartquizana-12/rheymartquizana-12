@@ -24,7 +24,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,fastapi,mongodb,postgres,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,fastapi,mongodb,postgres,firebase,supabase" />
 </p>
 
 ---
